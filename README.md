@@ -2,6 +2,8 @@
 
 **Public GitHub Repository:** https://github.com/shivamkhatri-hash/CapstoneProjectMasai
 
+**Part 1 Notebook (Google Colab):** https://colab.research.google.com/drive/1auKP2M8wrd0i5WboTV0SFLc7WgoVqH6p?usp=sharing
+
 ---
 
 ## Four-Line Project Summary
