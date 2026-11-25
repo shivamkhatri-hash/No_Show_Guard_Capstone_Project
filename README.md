@@ -2,14 +2,6 @@
 
 **Public GitHub Repository:** https://github.com/shivamkhatri-hash/No_Show_Guard_Capstone_Project
 
-**Part 1 Notebook (Google Colab):** https://colab.research.google.com/drive/1auKP2M8wrd0i5WboTV0SFLc7WgoVqH6p?usp=sharing
-
-**Part 2 Notebook (Google Colab):** https://colab.research.google.com/drive/1xAxQNcjVLzveFrVl_GLVUdGivZAgn0LC?usp=sharing
-
-**Part 3 Notebook (Google Colab):** https://colab.research.google.com/drive/14K4TMhDObc_-OUKrYW61fDgnRS2eHk7S?usp=sharing
-
-**Part 4 Notebook (Google Colab):** https://colab.research.google.com/drive/1wBi9DShFuFFOPhbhIlmuijl1c-HvJHvT?usp=sharing
-
 ---
 
 ## Four-Line Project Summary
