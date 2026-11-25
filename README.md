@@ -6,6 +6,8 @@
 
 **Part 2 Notebook (Google Colab):** https://colab.research.google.com/drive/1xAxQNcjVLzveFrVl_GLVUdGivZAgn0LC?usp=sharing
 
+**Part 3 Notebook (Google Colab):** https://colab.research.google.com/drive/14K4TMhDObc_-OUKrYW61fDgnRS2eHk7S?usp=sharing
+
 ---
 
 ## Four-Line Project Summary
@@ -71,7 +73,7 @@ CareLoop Clinics operates 8 outpatient clinics across 6 Indian cities (Pune, Nag
 - **Key Predictors (Associations):** `prior_no_shows` (`+0.65`) and `lead_days` (`+0.61`) are associated with higher no-show odds, while `reminder_sent` (`-0.58`, `exp(coef/std) ≈ 0.31`) is associated with ~69% lower estimated odds.
 
 ### Part 4 – Generative AI Follow-up Review
-- Implemented `notebooks/Part_4_GenAI_Analysis.ipynb` using `gemini-2.5-flash` (`temperature=0`, JSON mode, 4-field schema, `CRAFT` prompt) and `FollowupInsight` Pydantic validation, skipping blank note `N004` without an API call and merging with `appointments_clean.csv` for `reminder_sent` cross-tabulation. *(Execute `Part_4_GenAI_Analysis.ipynb` in Google Colab with your Gemini API key at runtime to generate `data/processed/notes_analysed.csv`.)*
+- Implemented `notebooks/Part_4_GenAI_Analysis.ipynb` using `gemini-3.8-flash` (`temperature=0`, JSON mode, 4-field schema, `CRAFT` prompt) and `FollowupInsight` Pydantic validation, skipping blank note `N004` without an API call and merging with `appointments_clean.csv` for `reminder_sent` cross-tabulation. *(Execute `Part_4_GenAI_Analysis.ipynb` in Google Colab with your Gemini API key at runtime to generate `data/processed/notes_analysed.csv`.)*
 
 ---
 
