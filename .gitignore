@@ -1,0 +1,18 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets & Environment
+.env
+*.key
+*api_key*
+
+# Local SQLite database
+outputs/*.db
+
+# OS files
+.DS_Store
+Thumbs.db
