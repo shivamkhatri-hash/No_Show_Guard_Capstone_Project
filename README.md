@@ -4,6 +4,8 @@
 
 **Part 1 Notebook (Google Colab):** https://colab.research.google.com/drive/1auKP2M8wrd0i5WboTV0SFLc7WgoVqH6p?usp=sharing
 
+**Part 2 Notebook (Google Colab):** https://colab.research.google.com/drive/1xAxQNcjVLzveFrVl_GLVUdGivZAgn0LC?usp=sharing
+
 ---
 
 ## Four-Line Project Summary
